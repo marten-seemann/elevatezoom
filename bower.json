@@ -1,0 +1,11 @@
+{
+  "name": "elevatezoom",
+  "homepage": "https://github.com/marten-seemann/elevatezoom",
+  "authors": [
+    "Andrew Eades Dual"
+  ],
+  "description": "A jQuery image zoom plugin",
+  "main": "jquery.elevatezoom.js",
+  "moduleType": [],
+  "license": "MIT, GPL"
+}
